@@ -70,7 +70,7 @@ This project deliberately uses **only official, sanctioned APIs** (YouTube Data 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/<your-username>/offline-queue.git
+git clone [https://github.com/ManasBhahada/offline-queue.git](https://github.com/ManasBhahada/offline-queue.git)
 cd offline-queue
 ```
 
